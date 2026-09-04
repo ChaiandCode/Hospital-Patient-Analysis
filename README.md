@@ -1,5 +1,5 @@
 # Hospital-Patient-Analysis
-Hospital Patient Data Analysis using SQL, Python, and Excel || Capstone Project For End Semester EXCELR
+Hospital Patient Data Analysis using SQL, Python, and Excel || 
 
 ## 📌 Project Overview
 This project focuses on analyzing hospital patient data to extract meaningful insights related to disease patterns, doctor workload, and treatment costs. The objective is to use data analysis techniques to support better decision-making in healthcare management.
